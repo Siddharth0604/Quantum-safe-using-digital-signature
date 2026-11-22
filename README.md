@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QuantumSafe
 
 A beginner-friendly web application for quantum-safe digital signatures using **NIST FIPS 204 ML-DSA-65**. Flask exposes the API and invokes the maintained `@noble/post-quantum` ML-DSA implementation in a small Node.js worker. It does not use RSA, Rainbow, or an invented signature scheme.
